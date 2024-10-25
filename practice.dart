@@ -9,7 +9,7 @@ void main() {
 
   for (int index = 0; index < integers.length; index++) {
     if (integers[index] <= integers.length) {
-      print(index); // Print the index of numbers that meet the condition
+      print(index);
     }
   }
   print(sum);
